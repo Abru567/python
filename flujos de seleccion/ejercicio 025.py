@@ -26,7 +26,7 @@ El conector "or" se utiliza para crear expresiones lógicas que requieren que al
 """
 
 edad = float(input("ingrese la edad"))
-altura = floar(input("Ingrese la altura"))
+altura = float(input("Ingrese la altura"))
 
 if edad > 6 or altura > 1.50:
     print("puedes ingresar")
